@@ -32,7 +32,6 @@ export default function LandingPage() {
 
   return (
     <div className="bg-[#0A0F1C] text-white font-sans">
-      {/* Hero Section */}
       <section className="relative bg-[#0b1221] min-h-[90vh] flex flex-col items-center justify-center px-6 text-center">
         <div className="max-w-3xl z-10">
           <h1 className="text-4xl md:text-6xl font-extrabold leading-tight">
@@ -109,7 +108,6 @@ export default function LandingPage() {
         </div>
       </section>
 
-      {/* Features Section */}
       <section className="bg-[#0b1221] py-24 px-6">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
@@ -171,7 +169,6 @@ export default function LandingPage() {
         </div>
       </section>
 
-      {/* CTA Section */}
       <section className="bg-cyan-400 text-black py-24 px-6">
         <div className="max-w-5xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">
